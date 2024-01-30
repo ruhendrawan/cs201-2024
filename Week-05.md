@@ -9,9 +9,10 @@ We understand and solve problems:
 - examine the values of variables
 - move through your code step by step.
 
-1. Set Breakpoints
-2. Click on debug (Gear Icon)
-3. Inspect or watch the variable
-4. Go to the next line, next breakpoint, and stop
+Try in Visual Studio Code
+1. Set Breakpoints -- click the left side of the line number until a red circle appears
+2. Click on debug (Gear Icon) -- may need to set up your IDE
+3. Inspect or watch the variable -- check the inspection and watch the window
+4. Go to the next line, next breakpoint, and stop -- check the debugging control window
 
 #
